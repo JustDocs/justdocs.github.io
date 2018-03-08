@@ -1,4 +1,5 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
-* [Test](test.md)
+* [Game](/)
+* [Website](website.md)
+* [Programming](programming.md)
