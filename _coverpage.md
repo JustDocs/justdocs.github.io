@@ -9,4 +9,4 @@
 * 게임, 웹사이트, 프로그래밍에 쓸 만한 라이브러리 추천
 
 [Github](https://github.com/JustDocs/justdocs.github.io)
-[Get Started](#docsify)
+[Get Started](#design)
