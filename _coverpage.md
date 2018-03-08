@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](pic/3.png)
+![logo](pic/library.svg)
 
 # 라이브러리독 <small>1.0</small>
 
