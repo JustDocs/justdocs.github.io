@@ -2,13 +2,11 @@
 
 ![logo](pic/3.png)
 
-# docsify <small>3.5</small>
+# 라이브러리독 <small>1.0</small>
 
-> A magical documentation site generator.
+> 라이브러리 모음.
 
-* Simple and lightweight (~19kB gzipped)
-* No statically built html files
-* Multiple themes
+* 게임, 웹사이트, 프로그래밍에 쓸 만한 라이브러리 추천
 
-[GitHub](https://github.com/QingWei-Li/docsify/)
+[Github](https://github.com/JustDocs/justdocs.github.io)
 [Get Started](#docsify)
