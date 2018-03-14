@@ -12,6 +12,8 @@
   <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-php.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 
 </head>
 <body id="docsify">
@@ -19,8 +21,28 @@
   <script>
 	window.$docsify = {
 		loadSidebar: true,
-		coverpage: true
-	}
+		coverpage: true,
+		
+	search: 'auto', // default
+
+    search : [
+      '/',            // => /README.md
+      '/website',       // => /guide.md
+      '/programming', // => /get-started.md
+    ],
+
+    // complete configuration parameters
+    search: {
+      maxAge: 86400000, // Expiration time, the default one day
+      paths: [], // or 'auto'
+      placeholder: '검색하기',
+
+      noData: 'No Results!',
+
+      // Headline depth, 1 - 6
+      depth: 2
+    }
+  }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
